@@ -10,3 +10,4 @@ if (event.target.tagName === 'H5') {
     event.target.style.color = getRandomColor();
 }
 }
+
